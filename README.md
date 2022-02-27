@@ -1,1 +1,2 @@
 # repozytorium-test
+Opis działania
